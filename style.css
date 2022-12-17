@@ -1,0 +1,37 @@
+body {
+    width: 100%;
+
+
+
+    
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+
+
+
+
+
+
+
+
+    align-items: center;
+    background-color: rgba(15, 180, 15, 0.646);
+}
+
+.div {
+    position: absolute;
+   
+    padding: 13px;
+    width: 100%;
+
+    
+    border: none;
+    background-color: blueviolet;
+    color: white;
+    font-size: 18px;
+
+
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
